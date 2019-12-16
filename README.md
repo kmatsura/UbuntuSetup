@@ -6,7 +6,7 @@
 
 ## guake
 設定
-
+## pipenv
 ## Ubuntuショートカット設定
 ## Ubuntuキーバインド設定
 ## Ubuntuスタートアップ設定
