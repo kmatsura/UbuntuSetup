@@ -1,4 +1,4 @@
-# UbuntuSetup
+f# UbuntuSetup
 
 ## tmux
 ```
@@ -37,3 +37,4 @@ pip3 install pipenv
 ```
 sudo apt install htop
 ```
+## C++
