@@ -33,3 +33,7 @@ pip3 install pipenv
 ## Ubuntuスタートアップ設定
 - guakeをスタートアップアプリケーションにする。
 ## BIOSでファンクションキーの設定変更
+## htop
+```
+sudo apt install htop
+```
