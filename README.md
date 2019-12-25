@@ -12,6 +12,9 @@ ln -s cloneした.tmux.confのパス ~
 
 #### tmux plugin
 
+## fishをいれる
+- default shell にする
+
 ## guake
 ```
 sudo apt install guake
