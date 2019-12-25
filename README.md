@@ -1,4 +1,4 @@
-f# UbuntuSetup
+f# UbuntuSetup memo
 
 ## tmux
 ```
@@ -14,13 +14,14 @@ ln -s cloneした.tmux.confのパス ~
 
 ## fishをいれる
 - default shell にする
+- fisher
 
 ## guake
 ```
 sudo apt install guake
 ```
 #### 設定
-- 透明度
+- 透明度a;
 - スタート時全画面化
 - default interpreter を　tmux にする。
 
@@ -36,8 +37,15 @@ pip3 install pipenv
 ## Ubuntuスタートアップ設定
 - guakeをスタートアップアプリケーションにする。
 ## BIOSでファンクションキーの設定変更
-## htop
+## apt-get
+#### htop
 ```
 sudo apt install htop
 ```
+#### xsel
+#### curl
+
+## aliasの設定
+./bashrc_aliasesに書く
+
 ## C++
