@@ -4,8 +4,6 @@ f# UbuntuSetup memo
 - google chrome
 - slack
 
-## Config
-- ctrl2caps
 
 ## tmux
 ```
@@ -29,8 +27,8 @@ sudo apt install guake
 ```
 #### 設定
 - 透明度a;
-- スタート時全画面化
 - default interpreter を　tmux にする。
+- pc kidouji guake kidou suru youni suru
 
 ## pipenv
 ```
@@ -44,7 +42,12 @@ pip3 install pipenv
 ## Ubuntuスタートアップ設定
 - guakeをスタートアップアプリケーションにする。
 ## BIOSでファンクションキーの設定変更
-## apt-get
+## nihonngonyuuryokudekiruyounisuru
+## apt install
+```bash
+sudo apt install git
+```
+
 #### htop
 ```
 sudo apt install htop
