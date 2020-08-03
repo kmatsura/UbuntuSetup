@@ -1,5 +1,9 @@
 f# UbuntuSetup memo
 
+## Desktop App
+- google chrome
+- slack
+
 ## tmux
 ```
 sudo apt install tmux
