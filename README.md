@@ -4,6 +4,9 @@ f# UbuntuSetup memo
 - google chrome
 - slack
 
+## Config
+- ctrl2caps
+
 ## tmux
 ```
 sudo apt install tmux
