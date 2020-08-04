@@ -47,7 +47,8 @@ pip3 install pipenv
 ```bash
 sudo apt install git
 ```
-
+## VScode
+Ubuntu Softwareで配布しているものは日本語入力ができないので、公式が配布している.debファイルをダウンロードする。
 #### htop
 ```
 sudo apt install htop
