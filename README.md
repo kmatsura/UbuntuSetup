@@ -14,6 +14,9 @@ sudo apt install tmux
 ```
 ln -s cloneした.tmux.confのパス ~
 ```
+```
+tmux source ~/.tmux.conf
+```
 
 #### tmux plugin
 
